@@ -96,6 +96,7 @@
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(349, 508);
             this.Name = "MainForm";
             this.Text = "CityCars";
             this.ResumeLayout(false);
